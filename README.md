@@ -2,13 +2,14 @@
 
 As a Data Analyst Intern at AtliQ Technologies, I will work with experienced professionals to analyze data, create reports, and provide insights that will aid in making informed business decisions. This internship will be conducted remotely and will provide all the necessary tools and resources to help me succeed in this role.
 
-WEEK 1:
-E-Mail #1:
+## WEEK 1:
+
+### E-Mail #1:
 HR REPORT
 Sending you these tasks following up on our call.
 The HR dataset can be found in the file "attendance_data.csv". Your tasks are divided into two parts: data cleaning and data analysis.
 
-Task 1: Data Cleaning
+### Task 1: Data Cleaning
 
 Standardize the date values to the format YYYY-MM-DD and extract the month name and day type from them.
 Remove any extra characters, such as special characters, from the employee ID values. Some IDs may contain a '@' character at the end, which can be cleaned and brought to a common format.
@@ -24,7 +25,7 @@ Weekly Off --> WO
 Check for duplicates in the dataset and remove them.
 
 
-Task 2: Ad Hoc aka Analysis
+### Task 2: Ad Hoc aka Analysis
 
 What is the total count of distinct employee names within the dataset?
 Calculate the work-from-home (WFH %) percentage in the month of May?
@@ -40,19 +41,18 @@ Solution:
 File name: week 1 task 1
 Tool: Power BI
 
-E-Mail #2:
+### E-Mail #2:
 DATA NORMALIZATION TASK
 Well done with the previous task. I have a new one for you.
 One of our client projects requires a minor support. The dataset is currently in a de-normalized form, and we need your help to transform it into a normalized form.
 Your task will involve creating proper fact and dimension tables based on the dataset, which can be found in the "fact_order_lines.csv" file. Providing a few screenshots of the dataset below, which will give you a better idea of what it looks like and how the final output should be presented
 
-345360026-ba151cad-6528-4b86-a1c6-0f81a01088a2 task2_2 task2_3
 
 Solution:
 File name: fact_order_lines_solutionn
 Tool: MS-Excel
 
-E-Mail #3:
+### E-Mail #3:
 SCRUM TRAINING
 I’m forwarding the email from HR, in case it didn’t reach you.
 As part of your internship, we will be covering the SCRUM methodology in software development. SCRUM is a widely-used agile methodology that helps teams collaborate effectively to deliver high-quality software products. To help you gain a thorough understanding of SCRUM, I am pleased to introduce you to the SCRUM Training Series, available at Scrum Training Series
@@ -68,8 +68,9 @@ Scrum Knowledge
 
 
 
-WEEK 2:
-E-Mail #1:
+## WEEK 2:
+
+### E-Mail #1:
 VARIANCE ANALYSIS
 The detailed explanation of the task.
 
@@ -102,7 +103,7 @@ Solution:
 File name: week 2 task 1
 Tool: Power BI
 
-E-Mail #2:
+### E-Mail #2:
 SQL QUERY DEBUGGING
 I’m struggling with something and need your help. Took some SQL queries created by our previous interns and it seems they were not debugged. Can you debug it?
 I have provided you with the necessary files to get started.
@@ -118,7 +119,7 @@ Solution:
 File name: week 2 task 2 sql solution
 Tool: MySQL
 
-E-Mail #3:
+### E-Mail #3:
 REPORT AUTOMATION I need a quick ad-hoc task completed.
 One of our clients in the Network services domain is currently creating a report every week manually. This can be easily automated and we can help them save time.
 I have provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", which contain data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these two files and create a new table that meets the specified format. I have attached the format to this email for your reference.
